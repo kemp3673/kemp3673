@@ -9,6 +9,7 @@
   <a href="https://www.linkedin.com/in/nicholas-kempkes/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <p>Check out out my linkedIn if you want to learn more about me</p>
 </div>
 
               
