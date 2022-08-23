@@ -2,7 +2,7 @@
   <h1>
     Hi, my name is Nicholas Kempkes
   </h1>
-  <img src="https://media3.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" height="300" />
+  <img src="https://media3.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" height="150" />
 </div>
 
 <div id="badges" align="center">
