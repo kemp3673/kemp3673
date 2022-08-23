@@ -42,4 +42,4 @@
 ![NGINX](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge)
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kemp3673&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kemp3673&theme=highContrast)](https://git.io/streak-stats)
