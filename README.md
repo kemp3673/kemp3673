@@ -5,6 +5,7 @@
   <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" height="300" />
 </div>
 
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nicholas-kempkes/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,9 +13,13 @@
   <p>Check out out my linkedIn if you want to learn more about me</p>
 </div>
 
+
               
 <div align="center">
   <img src= "http://github-readme-streak-stats.herokuapp.com?user=kemp3673&theme=highcontrast"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kemp3673&show_icons=true&theme=highcontrast&locale=en"/>
 </div>
 
 ---
