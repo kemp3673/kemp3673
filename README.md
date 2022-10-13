@@ -2,6 +2,7 @@
   <h1>
     Hi, my name is Nicholas Kempkes
   </h1>
+  <p>Hello! I am a javascript developer that enjoys solving problems and learning. I love all things tech and can spend hours geeking out over new technologies. I am originally from Minnesota but have spent the last 10+ years moving around the country and currently reside near Nashville, TN. For hobbies, I enjoy resin 3D printing and occasionally playing video games as time allows. </p>
   <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" height="300" />
 </div>
 
