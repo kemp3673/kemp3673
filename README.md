@@ -23,8 +23,15 @@
 </div>
 
 ---
-
-### 🛠️ Languages and Tools
+<div id="header" align="center">
+  <h1>
+    🛠️ Languages and Tools
+  </h1>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemp3673&layout=compact&show_icons=true&theme=highcontrast&locale=en"/>
+  <p> </p>
+</div>
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
