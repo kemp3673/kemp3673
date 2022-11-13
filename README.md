@@ -70,4 +70,6 @@
 
 <div align="center"> 
   <img src="https://komarev.com/ghpvc/?username=kemp3673&style=flat-square&color=blue" alt="Profile views"/>
+  <br></br>
+  <img src="https://media2.giphy.com/media/S1uy0EgCosuDS/giphy.gif?cid=6c09b952svi2t19uv53qw3cz1xyaqt21suqmylnfdwip533p&rid=giphy.gif&ct=g" height="200"/>
 </div>
