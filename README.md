@@ -33,7 +33,7 @@
     🛠️ Languages and Tools
   </h1>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemp3673&layout=compact&show_icons=true&theme=highcontrast&locale=en"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemp3673&layout=compact&langs_count=8&&hide=shellshow_icons=true&theme=highcontrast&locale=en"/>
   <p> </p>
 </div>
 
