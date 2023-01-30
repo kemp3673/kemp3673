@@ -2,7 +2,7 @@
   <h1>
     Hi, my name is Nicholas Kempkes
   </h1>
-  <p>Hello! I am a javascript developer that enjoys solving problems and learning. I love all things tech and can spend hours geeking out over new technologies. I am originally from Minnesota but have spent the last 10+ years moving around the country and currently reside near Nashville, TN. For hobbies, I enjoy resin 3D printing and occasionally playing video games as time allows. </p>
+  <p>I am a recent bootcamp graduate with a Bachelor's degree in Project Management and currently pursuing a second Bachelor's degree in Information Technology with a concentration in programming. I have a strong foundation in advanced software engineering and proficiency in technologies such as JavaScript, Node.js, React, SQL, and NoSQL databases. My six years of experience as a Geospatial analyst in the Air Force has given me a unique perspective on project management. I am a lifelong learner with a passion for technology, and I am eager to apply my skills and experience to new challenges in the industry. In my free time, I enjoy hobbies such as Dungeons and Dragons, 3D printing, video games and PC building/repair. I am excited for the next big thing in my life and enjoy taking on challenges, I am always looking for opportunities to learn, grow and make an impact in my field. </p>
   <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" height="300" />
 </div>
 
