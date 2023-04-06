@@ -8,10 +8,10 @@
 
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/nicholas-kempkes/">
+  <a href="https://www.linkedin.com/in/nicholas-kempkes/" target="_blank" rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <p>Check out out my linkedIn if you want to learn more about me, or check out my <a href="https://www.nicholaskempkes.com">Portfolio</a></p>
+  <p>Check out out my linkedIn if you want to learn more about me, or check out my <a href="https://www.nicholaskempkes.com" target="_blank" rel="noreferrer noopener">Portfolio</a></p>
 </div>
 
 
