@@ -2,6 +2,7 @@
   <h1>
     Hi, my name is Nicholas Kempkes
   </h1>
+  <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" height="200" />
   <p>I am a recent bootcamp graduate with a Bachelor's degree in Project Management and currently pursuing a second Bachelor's degree in Information Technology with a concentration in programming. I have a strong foundation in advanced software engineering and proficiency in technologies such as JavaScript, Node.js, React, SQL, and NoSQL databases. Additionally, I have gained experience in mobile app development using React Native, allowing me to build cross-platform applications.
 
 My current degree plan has provided me with a comprehensive understanding of software development management, Java software development, web development fundamentals, and introductory courses in Python. These courses have further expanded my technical skill set and equipped me with the necessary knowledge to tackle diverse programming challenges.
@@ -15,7 +16,6 @@ As a lifelong learner, I possess a genuine passion for technology and remain eag
 In my free time, I enjoy engaging in hobbies such as Dungeons and Dragons, 3D printing, video games, and PC building/repair. These activities not only foster my creativity but also allow me to explore new concepts and problem-solving techniques.
 
 I am excited about the next big chapter in my life and eagerly anticipate the opportunity to apply my skills and experience to new challenges in the industry. I am committed to continuously expanding my knowledge and contributing to the success of innovative projects.</p>
-  <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" height="300" />
 </div>
 
 
