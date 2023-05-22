@@ -2,7 +2,19 @@
   <h1>
     Hi, my name is Nicholas Kempkes
   </h1>
-  <p>I am a recent bootcamp graduate with a Bachelor's degree in Project Management and currently pursuing a second Bachelor's degree in Information Technology with a concentration in programming. I have a strong foundation in advanced software engineering and proficiency in technologies such as JavaScript, Node.js, React, SQL, and NoSQL databases. My six years of experience as a Geospatial analyst in the Air Force has given me a unique perspective on project management. I am a lifelong learner with a passion for technology, and I am eager to apply my skills and experience to new challenges in the industry. In my free time, I enjoy hobbies such as Dungeons and Dragons, 3D printing, video games and PC building/repair. I am excited for the next big thing in my life and enjoy taking on challenges, I am always looking for opportunities to learn, grow and make an impact in my field. </p>
+  <p>I am a recent bootcamp graduate with a Bachelor's degree in Project Management and currently pursuing a second Bachelor's degree in Information Technology with a concentration in programming. I have a strong foundation in advanced software engineering and proficiency in technologies such as JavaScript, Node.js, React, SQL, and NoSQL databases. Additionally, I have gained experience in mobile app development using React Native, allowing me to build cross-platform applications.
+
+My current degree plan has provided me with a comprehensive understanding of software development management, Java software development, web development fundamentals, and introductory courses in Python. These courses have further expanded my technical skill set and equipped me with the necessary knowledge to tackle diverse programming challenges.
+
+Prior to my academic pursuits, I served in the Air Force for six years as a Geospatial analyst, where I excelled in my role and was promoted to the position of Lead Instructor. In this capacity, I had the responsibility of training and mentoring a team of analysts, ensuring their proficiency in geospatial analysis techniques and project management methodologies.
+
+Outside of my professional endeavors, I am a family-oriented person, and I cherish spending quality time with my wife and two children. They provide me with constant motivation and serve as a source of inspiration in my personal and professional growth.
+
+As a lifelong learner, I possess a genuine passion for technology and remain eager to stay updated with the latest industry trends and advancements. I thrive on taking on challenges and always seek opportunities to learn, grow, and make a significant impact in my field.
+
+In my free time, I enjoy engaging in hobbies such as Dungeons and Dragons, 3D printing, video games, and PC building/repair. These activities not only foster my creativity but also allow me to explore new concepts and problem-solving techniques.
+
+I am excited about the next big chapter in my life and eagerly anticipate the opportunity to apply my skills and experience to new challenges in the industry. I am committed to continuously expanding my knowledge and contributing to the success of innovative projects.</p>
   <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" height="300" />
 </div>
 
