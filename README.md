@@ -3,19 +3,24 @@
     Hi, my name is Nicholas Kempkes
   </h1>
   <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" height="200" />
-  <p>I am a recent bootcamp graduate with a Bachelor's degree in Project Management and currently pursuing a second Bachelor's degree in Information Technology with a concentration in programming. I have a strong foundation in advanced software engineering and proficiency in technologies such as JavaScript, Node.js, React, SQL, and NoSQL databases. Additionally, I have gained experience in mobile app development using React Native, allowing me to build cross-platform applications.
+  <p>I am a front-end developer with a Bachelor's degree in Information Technology, specializing in Programming, and a certificate in Web 2.0. My academic background has provided me with a solid foundation in software engineering and practical experience in web development technologies such as JavaScript, Node.js, React, SQL, and NoSQL databases. My skills also extend to mobile app development using React Native, allowing me to create seamless cross-platform applications.
 
-My current degree plan has provided me with a comprehensive understanding of software development management, Java software development, web development fundamentals, and introductory courses in Python. These courses have further expanded my technical skill set and equipped me with the necessary knowledge to tackle diverse programming challenges.
+My education equipped me with knowledge in web development, programming fundamentals, object-oriented programming with Java, web analytics, user experience, database concepts, information system design, and application security. This diverse background has deepened my understanding of software development, user interface design, and enterprise development using J2EE.
 
-Prior to my academic pursuits, I served in the Air Force for six years as a Geospatial analyst, where I excelled in my role and was promoted to the position of Lead Instructor. In this capacity, I had the responsibility of training and mentoring a team of analysts, ensuring their proficiency in geospatial analysis techniques and project management methodologies.
+Prior to my academic pursuits, I served in the Air Force for six years as a Geospatial Analyst, where I advanced to lead instructor. In this role, I trained and mentored a team of analysts, overseeing the successful execution of geospatial projects. This experience honed my leadership abilities and reinforced my project management expertise.
 
-Outside of my professional endeavors, I am a family-oriented person, and I cherish spending quality time with my wife and two children. They provide me with constant motivation and serve as a source of inspiration in my personal and professional growth.
+Currently, I leverage my technical skills and project management experience as a front-end developer. I am proficient in:
 
-As a lifelong learner, I possess a genuine passion for technology and remain eager to stay updated with the latest industry trends and advancements. I thrive on taking on challenges and always seek opportunities to learn, grow, and make a significant impact in my field.
+Front-end: JavaScript (ES5 and ES6), React, HTML5, CSS3, Redux
+Back-end: Node.js, Express, MongoDB, Mongoose, MySQL, RESTful API Development, PostgreSQL
+Testing/Development: Jest, Mocha, Chai, AWS (EC2, RDS, S3), K6, Loader.io
+Developer Tools: Git, npm, Webpack, Babel, Agile Methodology, Scrum, TDD, PGadmin, Postman, Google API
+Programming Languages: Java, Python
+My unique combination of military discipline, technical expertise, and project management skills allows me to approach challenges with a strategic and solution-oriented mindset. Outside of work, I am devoted to spending quality time with my wife and two children, who inspire me to continually strive for excellence.
 
-In my free time, I enjoy engaging in hobbies such as Dungeons and Dragons, 3D printing, video games, and PC building/repair. These activities not only foster my creativity but also allow me to explore new concepts and problem-solving techniques.
+As a lifelong learner passionate about technology, I stay updated with industry trends and advancements. I thrive on new challenges and am eager to contribute to innovative projects that make a significant impact. I am excited about the opportunities ahead and look forward to applying my skills and experience to drive success in the industry.
 
-I am excited about the next big chapter in my life and eagerly anticipate the opportunity to apply my skills and experience to new challenges in the industry. I am committed to continuously expanding my knowledge and contributing to the success of innovative projects.</p>
+</p>
 </div>
 
 
