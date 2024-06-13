@@ -3,36 +3,46 @@
     Hi, my name is Nicholas Kempkes
   </h1>
   <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" height="200" />
-  <p>I am a front-end developer with a Bachelor's degree in Information Technology, specializing in Programming, and a certificate in Web 2.0. My academic background has provided me with a solid foundation in software engineering and practical experience in web development technologies such as JavaScript, Node.js, React, SQL, and NoSQL databases. My skills also extend to mobile app development using React Native, allowing me to create seamless cross-platform applications.
-
-My education equipped me with knowledge in web development, programming fundamentals, object-oriented programming with Java, web analytics, user experience, database concepts, information system design, and application security. This diverse background has deepened my understanding of software development, user interface design, and enterprise development using J2EE.
-
-Prior to my academic pursuits, I served in the Air Force for six years as a Geospatial Analyst, where I advanced to lead instructor. In this role, I trained and mentored a team of analysts, overseeing the successful execution of geospatial projects. This experience honed my leadership abilities and reinforced my project management expertise.
-
-Currently, I leverage my technical skills and project management experience as a front-end developer. I am proficient in:
-
-Front-end: JavaScript (ES5 and ES6), React, HTML5, CSS3, Redux
-Back-end: Node.js, Express, MongoDB, Mongoose, MySQL, RESTful API Development, PostgreSQL
-Testing/Development: Jest, Mocha, Chai, AWS (EC2, RDS, S3), K6, Loader.io
-Developer Tools: Git, npm, Webpack, Babel, Agile Methodology, Scrum, TDD, PGadmin, Postman, Google API
-Programming Languages: Java, Python
-My unique combination of military discipline, technical expertise, and project management skills allows me to approach challenges with a strategic and solution-oriented mindset. Outside of work, I am devoted to spending quality time with my wife and two children, who inspire me to continually strive for excellence.
-
-As a lifelong learner passionate about technology, I stay updated with industry trends and advancements. I thrive on new challenges and am eager to contribute to innovative projects that make a significant impact. I am excited about the opportunities ahead and look forward to applying my skills and experience to drive success in the industry.
-
+  <p align="left">I am a front-end developer with a Bachelor's degree in Information Technology, specializing in Programming, and a certificate in Web 2.0. My academic background has provided me with a solid foundation in software engineering and practical experience in web development technologies such as JavaScript, Node.js, React, SQL, and NoSQL databases. My skills also extend to mobile app development using React Native, allowing me to create seamless cross-platform applications.
+  </p>
+<p align="left">
+  My education equipped me with knowledge in web development, programming fundamentals, object-oriented programming with Java, web analytics, user experience, database concepts, information system design, and application security. This diverse background has deepened my understanding of software development, user interface design, and enterprise development using J2EE.
+</p>
+  <p align="left">
+    Prior to my academic pursuits, I served in the Air Force for six years as a Geospatial Analyst, where I advanced to lead instructor. In this role, I trained and mentored a team of analysts, overseeing the successful execution of geospatial projects. This experience honed my leadership abilities and reinforced my project management expertise.
+  </p>
+  <p align="left">
+    Currently, I leverage my technical skills and project management experience as a front-end developer. I am proficient in:
+  </p>
+   <ul align="left">
+     <li><strong>Front-end:</strong> JavaScript (ES5 and ES6), React, HTML5, CSS3, Redux</li>
+      <li><strong>Back-end:</strong> Node.js, Express, MongoDB, Mongoose, MySQL, RESTful API Development, PostgreSQL</li>
+      <li><strong>Testing/Development:</strong> Jest, Mocha, Chai, AWS (EC2, RDS, S3), K6, Loader.io</li>
+      <li><strong>Developer Tools:</strong> Git, npm, Webpack, Babel, Agile Methodology, Scrum, TDD, PGadmin, Postman, Google API</li>
+      <li><strong>Programming Languages:</strong> Java, Python</li>
+  </ul>
+<p align="left">
+  My unique combination of military discipline, technical expertise, and project management skills allows me to approach challenges with a strategic and solution-oriented mindset. Outside of work, I am devoted to spending quality time with my wife and two children, who inspire me to continually strive for excellence.
+</p>
+<p align="left">
+  As a lifelong learner passionate about technology, I stay updated with industry trends and advancements. I thrive on new challenges and am eager to contribute to innovative projects that make a significant impact. I am excited about the opportunities ahead and look forward to applying my skills and experience to drive success in the industry.
 </p>
 </div>
 
-
+<br>
+<br>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nicholas-kempkes/" target="_blank" rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <p>Check out out my linkedIn if you want to learn more about me, or check out my <a href="https://www.nicholaskempkes.com" target="_blank" rel="noreferrer noopener">Portfolio</a></p>
+<p>Check out out my linkedIn if you want to learn more about me</p>
+<!--   <p>Check out out my linkedIn if you want to learn more about me, or check out my <a href="https://www.nicholaskempkes.com" target="_blank" rel="noreferrer noopener">Portfolio</a></p> -->
+<!-- Portfolio not up -->
 </div>
 
 
-              
+<br>
+<br>
 <div align="center">
   <img src= "http://github-readme-streak-stats.herokuapp.com?user=kemp3673&theme=highcontrast"/>
   <p> </p>
