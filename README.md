@@ -44,8 +44,7 @@
 <br>
 <br>
 <div align="center">
-  <img src= "http://github-readme-streak-stats.herokuapp.com?user=kemp3673&theme=highcontrast"/>
-  <p> </p>
+  <img src="https://streak-stats.demolab.com?user=kemp3673&theme=highcontrast" alt="GitHub Streak Stats" />
 </div>
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kemp3673&show_icons=true&theme=highcontrast&locale=en"/>
