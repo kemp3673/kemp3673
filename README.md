@@ -44,7 +44,9 @@
 <br>
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kemp3673&theme=highcontrast" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kemp3673&show_icons=true&theme=radical" alt="Nick's GitHub stats" />
+  <p></p>
+  <p></p>
 </div>
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kemp3673&show_icons=true&theme=highcontrast&locale=en"/>
