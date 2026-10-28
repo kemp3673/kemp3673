@@ -3,30 +3,17 @@
     Hi, my name is Nicholas Kempkes
   </h1>
   <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" height="200" />
-  <p align="left">I am a front-end developer with a Bachelor's degree in Information Technology, specializing in Programming, and a certificate in Web 2.0. My academic background has provided me with a solid foundation in software engineering and practical experience in web development technologies such as JavaScript, Node.js, React, SQL, and NoSQL databases. My skills also extend to mobile app development using React Native, allowing me to create seamless cross-platform applications.
+  <p align="left">I'm a Front-End Engineer with a Bachelor's degree in Information Technology, specializing in Programming, and a certificate in Web 2.0. My professional experience centers on building, maintaining, and optimizing modern, responsive websites and web applications, with a strong emphasis on performance, accessibility, usability, and scalable front-end architecture.
   </p>
 <p align="left">
-  My education equipped me with knowledge in web development, programming fundamentals, object-oriented programming with Java, web analytics, user experience, database concepts, information system design, and application security. This diverse background has deepened my understanding of software development, user interface design, and enterprise development using J2EE.
+In my current role, I serve as the primary front-end engineer for a small development team, taking ownership of front-end implementation across multiple client websites and our proprietary content management system. My responsibilities extend beyond translating designs into functional interfaces. I develop reusable components, implement complex interactive features, troubleshoot production issues, and continuously improve the performance and maintainability of our applications.
 </p>
   <p align="left">
-    Prior to my academic pursuits, I served in the Air Force for six years as a Geospatial Analyst, where I advanced to lead instructor. In this role, I trained and mentored a team of analysts, overseeing the successful execution of geospatial projects. This experience honed my leadership abilities and reinforced my project management expertise.
+    Much of my work involves developing dynamic, data-driven interfaces using JavaScript, jQuery, HTML, CSS, LESS, and Pug. I've built and maintained interactive property search experiences, advanced filtering systems, dynamic floorplan displays, mapping integrations, and responsive navigation components. I also work extensively with third-party APIs and services, including Google Maps, analytics platforms, and embedded media.
   </p>
   <p align="left">
-    Currently, I leverage my technical skills and project management experience as a front-end developer. I am proficient in:
+I place particular importance on building websites that are not only visually accurate but also performant, accessible, and maintainable. My work regularly involves responsive design, WCAG accessibility considerations, search engine optimization, Core Web Vitals, browser compatibility, and improving the overall user experience. I enjoy identifying opportunities to simplify complex functionality, reduce unnecessary dependencies, and create solutions that can be reused across projects.
   </p>
-   <ul align="left">
-     <li><strong>Front-end:</strong> JavaScript (ES5 and ES6), React, HTML5, CSS3, Redux</li>
-      <li><strong>Back-end:</strong> Node.js, Express, MongoDB, Mongoose, MySQL, RESTful API Development, PostgreSQL</li>
-      <li><strong>Testing/Development:</strong> Jest, Mocha, Chai, AWS (EC2, RDS, S3), K6, Loader.io</li>
-      <li><strong>Developer Tools:</strong> Git, npm, Webpack, Babel, Agile Methodology, Scrum, TDD, PGadmin, Postman, Google API</li>
-      <li><strong>Programming Languages:</strong> Java, Python</li>
-  </ul>
-<p align="left">
-  My unique combination of military discipline, technical expertise, and project management skills allows me to approach challenges with a strategic and solution-oriented mindset. Outside of work, I am devoted to spending quality time with my wife and two children, who inspire me to continually strive for excellence.
-</p>
-<p align="left">
-  As a lifelong learner passionate about technology, I stay updated with industry trends and advancements. I thrive on new challenges and am eager to contribute to innovative projects that make a significant impact. I am excited about the opportunities ahead and look forward to applying my skills and experience to drive success in the industry.
-</p>
 </div>
 
 <br>
