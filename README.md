@@ -26,22 +26,15 @@ I place particular importance on building websites that are not only visually ac
 <!--   <p>Check out out my linkedIn if you want to learn more about me, or check out my <a href="https://www.nicholaskempkes.com" target="_blank" rel="noreferrer noopener">Portfolio</a></p> -->
 <!-- Portfolio not up -->
 </div>
-
-
 <br>
 <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kemp3673&show_icons=true&theme=radical" alt="Nick's GitHub stats" />
-  <p></p>
-  <p></p>
-</div>
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kemp3673&show_icons=true&theme=highcontrast&locale=en"/>
   <p> </p>
 </div> -->
-<div align="center"> 
+<!-- <div align="center"> 
   <img src="https://leetcard.jacoblin.cool/kemp3673?ext=activity"/>
-</div>
+</div> -->
 
 ---
   <h1 align="center">
